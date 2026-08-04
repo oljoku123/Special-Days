@@ -1,0 +1,6 @@
+{
+  "name": "Special Days",
+  "description": "An application to enter names with 'before' and 'after' values. The table automatically sorts entries by the greatest absolute difference, and then by relative difference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
